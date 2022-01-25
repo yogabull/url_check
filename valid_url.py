@@ -10,11 +10,11 @@ def main():
     
 def ask_for_url():
     print('Which URL do we test: ')
-    answer = input('(a)  https://www.google.com \n(b)  www.badurl.com\n  : ')
+    answer = input('(a)  https://www.google.com \n(b)  www.bad_url.com\n  : ')
     if answer == 'a':
         answer = 'https://www.google.com'
     else:
-        answer = 'www.badurl.com'
+        answer = 'www.bad_url.com'
     return answer
 
 
