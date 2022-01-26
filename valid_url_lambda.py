@@ -7,8 +7,8 @@ def lambda_handler(event, context):
     
     try:
         response = http.request('GET', url)
-        print(f'STATUS CODE: {r.status}.')
-        return r.status
+        print(f'STATUS CODE: {response.status}.')
+        return response.status
     except:
         response = 'NOT VALID'
         return response
