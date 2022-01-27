@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-27T04:39:45.506Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="eTGI7nv40a941yCte7un" version="16.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-27T04:43:15.727Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="QFJgyq1DoAxTloVdmsCT" version="16.4.7" type="github">
   <diagram id="6l8G265YnewpnGdQrtUn" name="Page-1">
-    <mxGraphModel dx="1476" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1476" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,7 +39,7 @@
         <mxCell id="mqh8PAdhAtJ8gHZrtwG4-9" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;AWS Traffic Mirroring&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;glass=0;dashed=1;dashPattern=1 1;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="450" y="60" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mqh8PAdhAtJ8gHZrtwG4-11" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Network traffic is diverted &lt;br&gt;and copied to a second &lt;br&gt;EC2 instance.&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;glass=0;dashed=1;dashPattern=1 1;sketch=0;" parent="1" vertex="1">
+        <mxCell id="mqh8PAdhAtJ8gHZrtwG4-11" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Network traffic is diverted &lt;br&gt;and copied to another&lt;br&gt;EC2 instance.&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;glass=0;dashed=1;dashPattern=1 1;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="205" y="500" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mqh8PAdhAtJ8gHZrtwG4-17" value="&lt;font color=&quot;#333333&quot;&gt;&lt;b&gt;VPC&lt;br&gt;Peering&lt;/b&gt;&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.vpc_peering;fillColor=#F58536;gradientColor=none;rounded=0;glass=0;dashPattern=1 1;sketch=0;strokeColor=#FF0000;strokeWidth=2;" parent="1" vertex="1">
