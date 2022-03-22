@@ -10,7 +10,7 @@ Discoverd that AWS lambda does not support ICMP protocol, so I opted to try usin
 ### Technologies
 Python
 
-## Scripts
+### Scripts
 
 | Name | Description                     |
 | --------------- | -------------------- |  
