@@ -1,7 +1,10 @@
-# AWS Lambda Script to verify if a url is valid.
+# AWS Lambda Script to ping a url.
 
 ### Description
-This script checks whether a url is valid.
+The goal is to ping a url and record the response using the AWS lambda service.
+
+### Progress
+
 
 Packages Used: requests
 
